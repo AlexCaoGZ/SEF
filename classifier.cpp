@@ -5,4 +5,7 @@ class Classifier {
 	train() {
 		printf("train");
 	}
+	predit() {
+		printf("predit");
+	}
 };
